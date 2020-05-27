@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<tests>
+  <test>
+    <examname>Sun_n_Moon</examname>
+    <testlength>2</testlength>
+    <questions>
+      <quest>1
+        <question>What sun is supposed to be?</question>
+        <falseanswer1>No idea</falseanswer1>
+        <falseanswer2>Does it matter?</falseanswer2>
+        <trueanswer>A star</trueanswer>
+        </quest>
+      <quest>2
+        <question>What moon is supposed to be?</question>
+        <falseanswer1>No idea</falseanswer1>
+        <falseanswer2>Does it matter?</falseanswer2>
+        <trueanswer>A satellite</trueanswer>
+      </quest>
+    </questions>
+  </test>
+</tests>
